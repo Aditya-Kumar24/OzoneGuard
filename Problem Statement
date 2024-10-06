@@ -1,0 +1,12 @@
+Problem Statement
+
+Ozone Monitoring and Environmental Awareness Web App 
+
+
+Ozone depletion, along with slowly increasing pollution levels, is one of the severe environmental threats coupled with health hazards. This project develops a web application that provides real-time ozone and air quality data to users while educating them on the causes of ozone depletion and tracking their personal environmental impact.
+
+Some of its significant features are:
+1)Real-Time Ozone Monitoring: It fetches public APIs-based real-time ozone data as well as air quality and visualizes them using interactive charts.
+2)Educational Resources: Inform users about the depletion of ozone and the actions that people can take to minimize their impact on the environment.
+
+Thus, the application will educate and generate awareness regarding saving the earth
